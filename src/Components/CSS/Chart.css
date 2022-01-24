@@ -1,0 +1,13 @@
+.Chart-container {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  margin-bottom: 5rem;
+}
+
+@media only screen and (max-width: 770px) {
+  .Chart-container {
+    width: 120%;
+  
+  }
+}

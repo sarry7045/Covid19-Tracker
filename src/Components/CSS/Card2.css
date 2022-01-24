@@ -1,0 +1,12 @@
+.Card2-card {
+  margin: 0 4% !important;
+}
+.infected {
+  border-bottom: 9px solid rgba(0, 0, 255, 0.5);
+}
+
+@media only screen and (max-width: 770px) {
+  .Card2-card {
+    margin: 3% 0 !important;
+  }
+}
